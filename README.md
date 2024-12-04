@@ -28,7 +28,7 @@ brew install python
   1. Scroll to the bottom of the Privacy & Security pane, and look for the message `"uni-amd64" was blocked to protect your Mac.` Click `Open Anyway`
   1. Terminal.app should open and display `uni`'s default help options. You can close Terminal, the Workflow should now be allowed to run.
   
-  Thanks <a href="https://github.com/blueset/alfred-search-unicode/issues/3">valrus (Ian McCowan)</a> for the instructions.
+  Thanks <a href="https://github.com/blueset/alfred-search-unicode/issues/3">valrus (Ian McCowan)</a> and <a href="https://github.com/unitof">unitof (Jacob Ford)</a> for the instructions.
 </details>
 
 ## Usage
