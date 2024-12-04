@@ -22,7 +22,7 @@ brew install python
 
   1. Open _Alfred Preferences > Workflows_ section
   1. Right-click `Search Unicode` > `Open in Finder`
-  1. Right-click the `uni` executable and choose `Open`
+  1. Right-click the `uni-arm64` executable and choose `Open`
   
   Thanks <a href="https://github.com/blueset/alfred-search-unicode/issues/3">valrus (Ian McCowan)</a> for the instructions.
 </details>
