@@ -20,9 +20,9 @@ brew install python
   
   It can be resolved by:
 
-  - Open _Alfred Preferences > Workflows_ section
-  - Right-click `Search Unicode` > `Open in Finder`
-  - Right-click the `uni` executable and choose `Open`
+  1. Open _Alfred Preferences > Workflows_ section
+  1. Right-click `Search Unicode` > `Open in Finder`
+  1. Right-click the `uni` executable and choose `Open`
   
   Thanks <a href="https://github.com/blueset/alfred-search-unicode/issues/3">valrus (Ian McCowan)</a> for the instructions.
 </details>
